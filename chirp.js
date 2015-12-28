@@ -9,4 +9,4 @@ if (num === 0) {
 return string + " " + chirp (decremented, string);
 }
 
-console.log(chirp(10, "obi-dee-obi-da"));
+//console.log(chirp(10, "obi-dee-obi-da"));
